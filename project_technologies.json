@@ -1,7 +1,9 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "google search"
+            "nviso api"
+            "youtube api"
         ],
         "platforms": [
             "insert platforms"
