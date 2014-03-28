@@ -1,10 +1,12 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "google search"
+            "nviso face detection"
+            "youtube api"
         ],
         "platforms": [
-            "insert platforms"
+            "processing"
         ],
         "toolkits": [
             "insert toolkits"
